@@ -23,7 +23,7 @@ global.foter2 = '𝘚𝘤𝘳𝘪𝘱𝘵 𝘴𝘪𝘮𝘱𝘭𝘦 by 𝙱𝙻�
 
 //========== Setting Event ==========//
 global.welcome = true
-global.autoread = fals
+global.autoread = false
 global.anticall = false
 global.owneroff = false
 
